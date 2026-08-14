@@ -1,0 +1,601 @@
+job_id,job_title,experience_level,work_mode,primary_skill,salary_usd
+2001,Software Engineer,Mid,Hybrid,Power BI,97020
+2002,Data Analyst,Entry,On-Site,Power BI,84782
+2003,Software Engineer,Entry,On-Site,Python,66363
+2004,Data Engineer,Entry,Hybrid,AWS,70193
+2005,Data Analyst,Mid,Remote,SQL,110523
+2006,Data Analyst,Senior,Hybrid,Power BI,132554
+2007,Data Analyst,Mid,Remote,PyTorch,133453
+2008,Data Engineer,Senior,Remote,Power BI,154208
+2009,Data Engineer,Entry,Remote,Snowflake,69057
+2010,Data Engineer,Senior,Hybrid,AWS,140166
+2011,Machine Learning Engineer,Lead,On-Site,Docker,211852
+2012,Data Analyst,Lead,Remote,Python,192773
+2013,Data Analyst,Mid,On-Site,SQL,102642
+2014,Data Analyst,Mid,On-Site,Python,134409
+2015,Data Analyst,Senior,Remote,Tableau,168877
+2016,Machine Learning Engineer,Senior,Remote,SQL,136372
+2017,Data Scientist,Senior,Remote,Python,147104
+2018,Data Scientist,Mid,Hybrid,Docker,111249
+2019,Data Scientist,Entry,Hybrid,AWS,86983
+2020,Data Engineer,Mid,Remote,Python,94855
+2021,Data Scientist,Entry,Remote,AWS,91764
+2022,Data Engineer,Entry,Hybrid,SQL,62694
+2023,Data Analyst,Mid,On-Site,Tableau,118503
+2024,Machine Learning Engineer,Senior,Remote,Docker,159663
+2025,Software Engineer,Senior,Remote,Python,142536
+2026,Machine Learning Engineer,Mid,On-Site,Python,112983
+2027,Data Analyst,Mid,Remote,SQL,132430
+2028,Data Engineer,Mid,Hybrid,SQL,133730
+2029,Data Analyst,Lead,Hybrid,SQL,189938
+2030,Data Scientist,Entry,Hybrid,Python,69752
+2031,Data Analyst,Lead,Remote,AWS,238995
+2032,Data Scientist,Entry,Hybrid,SQL,85487
+2033,Data Scientist,Mid,Hybrid,AWS,94063
+2034,Data Engineer,Senior,Remote,Python,162499
+2035,Data Analyst,Senior,Hybrid,SQL,165484
+2036,Data Scientist,Entry,Remote,Snowflake,64813
+2037,Data Analyst,Mid,On-Site,Docker,101607
+2038,Machine Learning Engineer,Senior,Hybrid,AWS,143301
+2039,Software Engineer,Entry,On-Site,Power BI,71866
+2040,Data Scientist,Mid,On-Site,Docker,125094
+2041,Data Analyst,Mid,Remote,Docker,117289
+2042,Data Analyst,Entry,Hybrid,Python,65628
+2043,Data Scientist,Mid,Hybrid,SQL,122048
+2044,Data Engineer,Entry,Hybrid,Power BI,89722
+2045,Data Scientist,Senior,Remote,SQL,144586
+2046,Software Engineer,Entry,Remote,Docker,82089
+2047,Data Engineer,Senior,Hybrid,AWS,140738
+2048,Data Analyst,Senior,Remote,Power BI,139741
+2049,Software Engineer,Lead,On-Site,SQL,171081
+2050,Data Engineer,Lead,On-Site,PyTorch,229710
+2051,Data Engineer,Mid,On-Site,SQL,97627
+2052,Software Engineer,Mid,Hybrid,Power BI,94372
+2053,Software Engineer,Mid,Remote,AWS,129481
+2054,Data Scientist,Senior,Hybrid,SQL,146147
+2055,Machine Learning Engineer,Senior,On-Site,Snowflake,158123
+2056,Machine Learning Engineer,Mid,Hybrid,Spark,125810
+2057,Data Engineer,Senior,Remote,Python,161805
+2058,Data Engineer,Entry,Hybrid,SQL,80679
+2059,Data Analyst,Entry,On-Site,SQL,64447
+2060,Machine Learning Engineer,Mid,Remote,Power BI,93840
+2061,Data Engineer,Entry,Hybrid,Power BI,85413
+2062,Data Engineer,Lead,Remote,Tableau,188958
+2063,Data Analyst,Mid,Remote,PyTorch,127619
+2064,Data Engineer,Senior,Remote,Python,143763
+2065,Data Scientist,Mid,Hybrid,SQL,132968
+2066,Data Scientist,Senior,Hybrid,SQL,143625
+2067,Machine Learning Engineer,Mid,Remote,Python,92070
+2068,Software Engineer,Entry,Hybrid,AWS,63424
+2069,Data Engineer,Mid,Remote,AWS,107932
+2070,Data Scientist,Mid,Remote,SQL,118163
+2071,Software Engineer,Mid,Hybrid,Python,93175
+2072,Data Analyst,Mid,Hybrid,PyTorch,115896
+2073,Data Scientist,Mid,Hybrid,AWS,132365
+2074,Software Engineer,Mid,On-Site,Python,93121
+2075,Data Analyst,Entry,Remote,Power BI,62491
+2076,Machine Learning Engineer,Mid,Remote,Tableau,102683
+2077,Data Scientist,Entry,Hybrid,Docker,85727
+2078,Data Analyst,Senior,Remote,Spark,174375
+2079,Data Engineer,Lead,Remote,Tableau,193856
+2080,Software Engineer,Lead,Remote,Spark,222818
+2081,Software Engineer,Entry,Hybrid,Tableau,71201
+2082,Data Engineer,Senior,Remote,Snowflake,135020
+2083,Software Engineer,Mid,On-Site,Power BI,118432
+2084,Data Analyst,Mid,Remote,Power BI,123856
+2085,Machine Learning Engineer,Senior,Remote,AWS,133165
+2086,Data Engineer,Mid,On-Site,SQL,95268
+2087,Machine Learning Engineer,Entry,Hybrid,Python,62943
+2088,Data Analyst,Senior,On-Site,Spark,134474
+2089,Software Engineer,Entry,Remote,SQL,88447
+2090,Software Engineer,Lead,Hybrid,SQL,175845
+2091,Data Scientist,Senior,Remote,Snowflake,136115
+2092,Data Analyst,Mid,Hybrid,Python,95346
+2093,Data Scientist,Entry,Hybrid,Power BI,93676
+2094,Data Analyst,Mid,On-Site,SQL,133345
+2095,Software Engineer,Entry,Remote,Docker,78469
+2096,Data Analyst,Lead,Hybrid,PyTorch,206616
+2097,Data Scientist,Mid,Hybrid,Power BI,116294
+2098,Data Analyst,Lead,Remote,PyTorch,232318
+2099,Data Scientist,Mid,Remote,Python,110866
+2100,Data Scientist,Mid,Remote,PyTorch,134379
+2101,Data Engineer,Senior,Remote,Tableau,167660
+2102,Software Engineer,Entry,On-Site,PyTorch,85400
+2103,Data Engineer,Mid,On-Site,Docker,92034
+2104,Data Engineer,Entry,On-Site,R,65264
+2105,Data Engineer,Mid,On-Site,Tableau,127724
+2106,Data Engineer,Mid,Remote,Python,128912
+2107,Software Engineer,Senior,On-Site,AWS,172294
+2108,Machine Learning Engineer,Lead,Remote,AWS,179041
+2109,Data Scientist,Lead,Remote,Power BI,213268
+2110,Data Analyst,Mid,Hybrid,AWS,124754
+2111,Software Engineer,Mid,Hybrid,AWS,129449
+2112,Data Analyst,Mid,Remote,Spark,117913
+2113,Data Analyst,Senior,Remote,Python,149282
+2114,Data Engineer,Mid,Remote,Snowflake,105671
+2115,Machine Learning Engineer,Mid,Remote,Power BI,128806
+2116,Data Analyst,Lead,On-Site,AWS,188077
+2117,Software Engineer,Mid,Hybrid,SQL,118503
+2118,Data Analyst,Entry,Remote,Python,65316
+2119,Data Scientist,Entry,Remote,SQL,91387
+2120,Data Scientist,Mid,Remote,Python,91839
+2121,Data Analyst,Entry,Remote,Python,64222
+2122,Data Analyst,Mid,Remote,AWS,121067
+2123,Machine Learning Engineer,Entry,Hybrid,Python,90575
+2124,Data Analyst,Lead,Remote,Tableau,222378
+2125,Data Analyst,Entry,Remote,AWS,81638
+2126,Data Engineer,Mid,Hybrid,Python,101359
+2127,Software Engineer,Senior,Hybrid,AWS,135894
+2128,Data Engineer,Mid,Remote,SQL,106977
+2129,Data Engineer,Entry,Remote,SQL,64191
+2130,Data Scientist,Senior,Hybrid,Tableau,157414
+2131,Data Engineer,Entry,Hybrid,Spark,75108
+2132,Data Analyst,Entry,Remote,Power BI,79977
+2133,Software Engineer,Mid,Hybrid,SQL,94580
+2134,Data Analyst,Entry,Remote,Python,69978
+2135,Software Engineer,Entry,Remote,AWS,74363
+2136,Data Analyst,Lead,Remote,PyTorch,230585
+2137,Data Analyst,Senior,Remote,Power BI,181115
+2138,Data Scientist,Mid,Remote,Spark,98416
+2139,Data Engineer,Mid,Hybrid,SQL,95167
+2140,Data Analyst,Mid,Hybrid,Python,111651
+2141,Data Analyst,Mid,Remote,Python,92851
+2142,Data Engineer,Lead,On-Site,SQL,217705
+2143,Data Scientist,Senior,Hybrid,SQL,149187
+2144,Machine Learning Engineer,Lead,On-Site,Python,221160
+2145,Data Analyst,Lead,Remote,Spark,210213
+2146,Data Analyst,Senior,Hybrid,Python,139001
+2147,Machine Learning Engineer,Entry,Hybrid,AWS,72559
+2148,Data Engineer,Senior,On-Site,AWS,150731
+2149,Data Engineer,Mid,Hybrid,AWS,100449
+2150,Data Engineer,Senior,Hybrid,Snowflake,164333
+2151,Software Engineer,Entry,Hybrid,SQL,64874
+2152,Data Scientist,Senior,Hybrid,Docker,173372
+2153,Data Engineer,Entry,Remote,Spark,61173
+2154,Machine Learning Engineer,Mid,On-Site,SQL,126956
+2155,Machine Learning Engineer,Entry,Remote,SQL,87905
+2156,Data Analyst,Entry,Hybrid,Spark,82440
+2157,Data Engineer,Senior,Remote,SQL,139987
+2158,Data Scientist,Lead,Remote,AWS,236309
+2159,Data Scientist,Entry,Hybrid,Power BI,60633
+2160,Software Engineer,Senior,Hybrid,Spark,180737
+2161,Data Analyst,Senior,Hybrid,Power BI,153327
+2162,Software Engineer,Senior,On-Site,AWS,136228
+2163,Machine Learning Engineer,Lead,Remote,Snowflake,230892
+2164,Data Scientist,Mid,Remote,Python,105083
+2165,Data Analyst,Senior,Remote,SQL,159556
+2166,Data Engineer,Lead,Remote,Spark,201655
+2167,Data Engineer,Entry,Remote,Python,77442
+2168,Software Engineer,Mid,Remote,Power BI,118451
+2169,Data Scientist,Entry,Remote,PyTorch,65203
+2170,Data Analyst,Mid,On-Site,AWS,116792
+2171,Data Scientist,Entry,Remote,Docker,67179
+2172,Data Analyst,Entry,Hybrid,AWS,62299
+2173,Data Engineer,Senior,Hybrid,AWS,152041
+2174,Data Analyst,Mid,Remote,Docker,132575
+2175,Data Analyst,Mid,Hybrid,SQL,91142
+2176,Data Scientist,Entry,Hybrid,Python,67769
+2177,Data Scientist,Entry,Remote,Python,87997
+2178,Data Scientist,Entry,Remote,Python,68511
+2179,Software Engineer,Senior,On-Site,SQL,166744
+2180,Data Analyst,Entry,On-Site,Python,62992
+2181,Data Analyst,Entry,Remote,Power BI,74749
+2182,Machine Learning Engineer,Senior,Remote,SQL,150883
+2183,Data Analyst,Mid,Hybrid,SQL,114842
+2184,Data Analyst,Mid,On-Site,Spark,96305
+2185,Data Engineer,Senior,On-Site,Tableau,153386
+2186,Data Analyst,Entry,Hybrid,Power BI,69026
+2187,Machine Learning Engineer,Entry,On-Site,AWS,66008
+2188,Data Analyst,Mid,On-Site,Python,115943
+2189,Data Scientist,Mid,Hybrid,Tableau,99288
+2190,Data Analyst,Entry,On-Site,Docker,80909
+2191,Data Scientist,Mid,Remote,Snowflake,108844
+2192,Data Engineer,Mid,Remote,Python,123211
+2193,Data Scientist,Entry,Remote,SQL,70104
+2194,Data Scientist,Mid,Remote,AWS,111422
+2195,Software Engineer,Senior,Hybrid,Python,131715
+2196,Data Scientist,Mid,Remote,AWS,116857
+2197,Machine Learning Engineer,Mid,Remote,Python,122768
+2198,Data Scientist,Mid,Remote,SQL,126859
+2199,Data Scientist,Senior,Remote,Power BI,149853
+2200,Software Engineer,Entry,Remote,PyTorch,75610
+2201,Data Engineer,Entry,On-Site,Spark,88229
+2202,Data Scientist,Senior,On-Site,SQL,156918
+2203,Software Engineer,Entry,On-Site,Python,84695
+2204,Data Analyst,Lead,Hybrid,Snowflake,172376
+2205,Data Analyst,Senior,On-Site,PyTorch,181934
+2206,Software Engineer,Mid,On-Site,SQL,127301
+2207,Data Scientist,Entry,Remote,Python,62693
+2208,Data Engineer,Senior,Hybrid,Python,147340
+2209,Machine Learning Engineer,Mid,Remote,Power BI,129868
+2210,Data Analyst,Mid,Remote,Docker,90957
+2211,Data Engineer,Senior,On-Site,Tableau,184886
+2212,Machine Learning Engineer,Mid,Remote,AWS,118237
+2213,Software Engineer,Senior,Hybrid,SQL,153174
+2214,Data Analyst,Senior,Remote,SQL,145798
+2215,Data Analyst,Mid,Remote,Python,134447
+2216,Data Engineer,Mid,Hybrid,Python,132748
+2217,Data Analyst,Senior,Remote,Docker,181960
+2218,Data Scientist,Mid,Remote,R,100425
+2219,Data Scientist,Lead,Hybrid,AWS,186146
+2220,Data Analyst,Entry,Remote,Tableau,72254
+2221,Software Engineer,Entry,On-Site,Snowflake,94821
+2222,Data Engineer,Entry,Hybrid,Spark,65386
+2223,Data Analyst,Senior,Remote,AWS,162611
+2224,Data Analyst,Mid,On-Site,SQL,95828
+2225,Software Engineer,Senior,On-Site,Tableau,166038
+2226,Data Analyst,Mid,Remote,SQL,101688
+2227,Data Engineer,Senior,Remote,SQL,167579
+2228,Software Engineer,Entry,Hybrid,AWS,80734
+2229,Data Engineer,Senior,Hybrid,AWS,144686
+2230,Machine Learning Engineer,Senior,Hybrid,Docker,177701
+2231,Machine Learning Engineer,Senior,Hybrid,Power BI,164023
+2232,Data Analyst,Senior,On-Site,Docker,131608
+2233,Data Analyst,Senior,Remote,Spark,138841
+2234,Machine Learning Engineer,Senior,Hybrid,Python,145787
+2235,Software Engineer,Mid,Hybrid,SQL,118530
+2236,Machine Learning Engineer,Mid,Remote,Spark,114356
+2237,Data Engineer,Lead,Hybrid,Snowflake,177175
+2238,Data Scientist,Lead,Remote,SQL,219572
+2239,Data Scientist,Entry,Remote,Power BI,61600
+2240,Software Engineer,Senior,On-Site,Spark,137154
+2241,Data Analyst,Senior,Remote,SQL,156875
+2242,Data Scientist,Senior,Remote,SQL,184841
+2243,Data Engineer,Mid,Remote,Tableau,121215
+2244,Data Analyst,Entry,Hybrid,Power BI,69564
+2245,Data Analyst,Lead,Remote,PyTorch,199380
+2246,Data Engineer,Mid,Remote,R,108420
+2247,Data Analyst,Senior,Remote,Python,165841
+2248,Software Engineer,Mid,Hybrid,PyTorch,98348
+2249,Machine Learning Engineer,Senior,Hybrid,Tableau,171856
+2250,Data Analyst,Mid,Remote,Snowflake,117749
+2251,Data Engineer,Senior,Remote,Python,167706
+2252,Data Analyst,Mid,Hybrid,Python,116188
+2253,Machine Learning Engineer,Mid,Remote,AWS,90522
+2254,Data Engineer,Entry,Hybrid,Power BI,70208
+2255,Software Engineer,Senior,Hybrid,Python,156427
+2256,Data Analyst,Entry,On-Site,Python,77461
+2257,Data Scientist,Mid,Hybrid,Python,104690
+2258,Data Analyst,Mid,Remote,Python,93536
+2259,Data Analyst,Mid,Hybrid,Power BI,126026
+2260,Data Analyst,Entry,Remote,Power BI,84726
+2261,Software Engineer,Entry,Remote,AWS,84817
+2262,Data Scientist,Senior,On-Site,SQL,174815
+2263,Software Engineer,Entry,Hybrid,Tableau,75831
+2264,Data Engineer,Mid,Hybrid,Python,92715
+2265,Data Analyst,Entry,On-Site,Python,94155
+2266,Data Analyst,Mid,Hybrid,Power BI,112418
+2267,Data Scientist,Mid,Remote,R,133865
+2268,Data Analyst,Senior,Hybrid,Python,131685
+2269,Data Engineer,Mid,On-Site,Spark,123421
+2270,Data Engineer,Mid,Remote,R,91804
+2271,Data Scientist,Senior,Remote,Spark,156766
+2272,Software Engineer,Senior,Remote,SQL,162579
+2273,Data Analyst,Lead,Hybrid,Power BI,221317
+2274,Data Scientist,Entry,On-Site,Python,68314
+2275,Data Analyst,Lead,On-Site,AWS,187306
+2276,Data Engineer,Senior,Hybrid,SQL,162612
+2277,Data Engineer,Entry,On-Site,SQL,82985
+2278,Machine Learning Engineer,Mid,Remote,PyTorch,110420
+2279,Data Analyst,Entry,Remote,AWS,71795
+2280,Data Engineer,Senior,Remote,Power BI,168872
+2281,Data Analyst,Entry,Remote,Spark,83233
+2282,Machine Learning Engineer,Mid,On-Site,Power BI,129072
+2283,Data Analyst,Entry,Remote,Python,78590
+2284,Data Analyst,Lead,Remote,AWS,235371
+2285,Data Engineer,Mid,Remote,Python,134398
+2286,Data Analyst,Lead,On-Site,Power BI,230754
+2287,Data Engineer,Mid,Hybrid,Power BI,96284
+2288,Data Engineer,Entry,Hybrid,Python,83570
+2289,Data Analyst,Lead,Hybrid,AWS,230769
+2290,Data Scientist,Entry,On-Site,PyTorch,83913
+2291,Data Scientist,Mid,On-Site,Power BI,91367
+2292,Data Scientist,Lead,Hybrid,Python,216121
+2293,Data Scientist,Mid,Remote,Power BI,134973
+2294,Software Engineer,Entry,Remote,Docker,87383
+2295,Data Scientist,Mid,On-Site,SQL,104716
+2296,Machine Learning Engineer,Senior,Hybrid,Tableau,153957
+2297,Data Analyst,Senior,Hybrid,Python,147852
+2298,Data Engineer,Mid,Hybrid,SQL,110191
+2299,Data Engineer,Entry,Remote,Python,81120
+2300,Data Scientist,Senior,Hybrid,SQL,177483
+2301,Data Engineer,Mid,Remote,SQL,107108
+2302,Data Scientist,Mid,Hybrid,Power BI,124419
+2303,Data Scientist,Senior,On-Site,Python,140767
+2304,Data Scientist,Entry,On-Site,SQL,92446
+2305,Software Engineer,Entry,Remote,Python,77005
+2306,Data Analyst,Mid,Remote,Tableau,114262
+2307,Data Scientist,Mid,Hybrid,SQL,108609
+2308,Data Analyst,Entry,Hybrid,Python,78380
+2309,Data Analyst,Senior,Hybrid,SQL,182960
+2310,Machine Learning Engineer,Mid,Hybrid,Python,118491
+2311,Data Scientist,Lead,On-Site,Docker,185965
+2312,Data Scientist,Entry,Remote,Tableau,91500
+2313,Data Analyst,Mid,Hybrid,SQL,127017
+2314,Data Scientist,Mid,Remote,Power BI,110329
+2315,Data Analyst,Mid,Hybrid,Docker,99753
+2316,Data Analyst,Entry,Hybrid,Power BI,79134
+2317,Data Engineer,Entry,Hybrid,AWS,94572
+2318,Data Scientist,Entry,Remote,AWS,85115
+2319,Software Engineer,Senior,Remote,Python,169838
+2320,Data Analyst,Mid,Remote,Python,130238
+2321,Data Engineer,Entry,Remote,SQL,62429
+2322,Data Analyst,Mid,On-Site,SQL,114300
+2323,Data Scientist,Senior,Hybrid,SQL,148315
+2324,Software Engineer,Senior,Hybrid,AWS,170185
+2325,Data Analyst,Mid,Hybrid,PyTorch,97888
+2326,Data Analyst,Senior,Hybrid,Python,154770
+2327,Data Engineer,Senior,Hybrid,Tableau,180994
+2328,Data Engineer,Entry,Remote,R,92445
+2329,Machine Learning Engineer,Mid,Hybrid,Power BI,94010
+2330,Data Analyst,Senior,On-Site,Tableau,168980
+2331,Data Engineer,Entry,Remote,SQL,63067
+2332,Data Scientist,Lead,Remote,SQL,201304
+2333,Data Engineer,Mid,On-Site,AWS,134647
+2334,Data Analyst,Senior,On-Site,Python,174959
+2335,Software Engineer,Mid,On-Site,Tableau,125551
+2336,Data Analyst,Mid,Remote,Python,121272
+2337,Software Engineer,Mid,Hybrid,Tableau,95963
+2338,Software Engineer,Senior,Hybrid,Power BI,172064
+2339,Data Engineer,Entry,Remote,Python,72863
+2340,Data Analyst,Entry,Remote,PyTorch,79233
+2341,Data Engineer,Lead,Remote,AWS,200765
+2342,Data Scientist,Entry,Remote,Power BI,82757
+2343,Data Analyst,Entry,Hybrid,AWS,62035
+2344,Data Analyst,Lead,Hybrid,R,186742
+2345,Data Analyst,Entry,Remote,Python,84225
+2346,Data Engineer,Entry,On-Site,Tableau,81532
+2347,Data Scientist,Mid,Hybrid,AWS,95881
+2348,Data Engineer,Senior,Remote,SQL,152777
+2349,Data Scientist,Senior,Hybrid,Python,152888
+2350,Data Analyst,Mid,Remote,Spark,96169
+2351,Data Analyst,Mid,Remote,SQL,133914
+2352,Software Engineer,Senior,Hybrid,Python,160137
+2353,Machine Learning Engineer,Mid,Remote,AWS,96752
+2354,Data Scientist,Mid,Hybrid,SQL,107751
+2355,Machine Learning Engineer,Mid,On-Site,PyTorch,125410
+2356,Data Scientist,Mid,Remote,SQL,127839
+2357,Software Engineer,Entry,Hybrid,Power BI,83077
+2358,Data Scientist,Senior,Hybrid,Python,158512
+2359,Data Scientist,Entry,Hybrid,Power BI,61458
+2360,Data Scientist,Entry,Remote,Python,60423
+2361,Data Scientist,Lead,Remote,SQL,194479
+2362,Data Scientist,Senior,Remote,Python,135411
+2363,Machine Learning Engineer,Senior,Remote,Python,134519
+2364,Data Analyst,Lead,Hybrid,Power BI,196735
+2365,Data Analyst,Entry,Hybrid,Tableau,82536
+2366,Data Analyst,Mid,On-Site,Tableau,103176
+2367,Data Scientist,Lead,Hybrid,Spark,226823
+2368,Data Analyst,Senior,Remote,Snowflake,142353
+2369,Data Engineer,Mid,Remote,Power BI,132438
+2370,Data Analyst,Entry,Remote,Docker,82603
+2371,Machine Learning Engineer,Mid,On-Site,Tableau,131351
+2372,Machine Learning Engineer,Mid,Hybrid,Tableau,122782
+2373,Data Scientist,Senior,Remote,AWS,184156
+2374,Data Analyst,Lead,Remote,Python,220818
+2375,Data Analyst,Senior,Hybrid,Tableau,170304
+2376,Data Scientist,Mid,Hybrid,SQL,115425
+2377,Software Engineer,Senior,Hybrid,Spark,138803
+2378,Data Analyst,Mid,Remote,Spark,134631
+2379,Data Engineer,Entry,On-Site,Python,79427
+2380,Data Scientist,Senior,Remote,SQL,173108
+2381,Data Analyst,Mid,Hybrid,Python,123558
+2382,Software Engineer,Entry,Remote,SQL,65211
+2383,Software Engineer,Mid,On-Site,SQL,110187
+2384,Software Engineer,Senior,Hybrid,SQL,152694
+2385,Data Analyst,Senior,Hybrid,SQL,173680
+2386,Data Scientist,Entry,Hybrid,Power BI,62269
+2387,Data Scientist,Mid,Hybrid,Power BI,120441
+2388,Data Analyst,Senior,On-Site,AWS,134238
+2389,Data Engineer,Entry,Hybrid,Spark,87601
+2390,Data Engineer,Mid,Remote,SQL,109530
+2391,Data Analyst,Entry,Hybrid,Spark,94942
+2392,Data Scientist,Lead,Remote,Power BI,224995
+2393,Data Engineer,Entry,On-Site,SQL,80015
+2394,Data Analyst,Mid,Remote,SQL,91178
+2395,Machine Learning Engineer,Entry,Remote,AWS,70455
+2396,Data Analyst,Lead,Remote,Docker,228935
+2397,Machine Learning Engineer,Entry,Hybrid,AWS,64671
+2398,Data Scientist,Entry,Hybrid,AWS,85532
+2399,Data Analyst,Senior,Hybrid,Python,171325
+2400,Software Engineer,Senior,Remote,Python,145520
+2401,Data Analyst,Mid,On-Site,SQL,102237
+2402,Data Engineer,Senior,Hybrid,Python,156816
+2403,Data Analyst,Entry,On-Site,Python,78634
+2404,Data Engineer,Mid,On-Site,Python,119870
+2405,Data Scientist,Lead,On-Site,Python,199315
+2406,Data Scientist,Mid,On-Site,SQL,119437
+2407,Data Scientist,Entry,Hybrid,PyTorch,81298
+2408,Data Analyst,Mid,Remote,SQL,101293
+2409,Data Scientist,Senior,Hybrid,Python,177307
+2410,Data Analyst,Senior,Hybrid,AWS,134494
+2411,Data Engineer,Mid,Remote,PyTorch,128248
+2412,Data Engineer,Senior,Remote,Power BI,159998
+2413,Data Engineer,Entry,On-Site,AWS,61818
+2414,Data Analyst,Senior,Remote,Python,148161
+2415,Data Engineer,Senior,Remote,Docker,178377
+2416,Data Analyst,Senior,Hybrid,R,172460
+2417,Data Analyst,Entry,Hybrid,Snowflake,78854
+2418,Data Analyst,Mid,Hybrid,Tableau,107118
+2419,Software Engineer,Senior,Remote,AWS,145792
+2420,Data Scientist,Senior,Hybrid,Tableau,151778
+2421,Data Engineer,Lead,Remote,Spark,225528
+2422,Software Engineer,Mid,On-Site,SQL,134258
+2423,Data Analyst,Entry,Remote,Docker,82900
+2424,Data Engineer,Entry,Hybrid,Python,90884
+2425,Data Engineer,Senior,On-Site,SQL,184126
+2426,Data Scientist,Senior,Remote,Docker,153511
+2427,Data Analyst,Entry,Hybrid,AWS,85177
+2428,Data Analyst,Senior,Hybrid,Python,177199
+2429,Data Engineer,Senior,Hybrid,SQL,155914
+2430,Data Engineer,Senior,Remote,AWS,175553
+2431,Data Analyst,Mid,Hybrid,Tableau,94528
+2432,Data Analyst,Entry,Remote,AWS,86208
+2433,Data Scientist,Senior,Remote,Tableau,155920
+2434,Data Scientist,Lead,Remote,Power BI,192757
+2435,Data Analyst,Senior,Remote,Docker,142494
+2436,Data Analyst,Senior,Hybrid,Spark,158196
+2437,Data Analyst,Mid,Remote,SQL,119392
+2438,Software Engineer,Lead,Hybrid,Tableau,216548
+2439,Software Engineer,Mid,Hybrid,AWS,94994
+2440,Data Engineer,Mid,On-Site,AWS,107118
+2441,Data Analyst,Lead,Remote,Python,221793
+2442,Data Analyst,Lead,On-Site,SQL,233753
+2443,Machine Learning Engineer,Senior,Remote,PyTorch,169966
+2444,Machine Learning Engineer,Mid,Remote,Docker,95066
+2445,Data Engineer,Senior,Remote,SQL,130682
+2446,Data Engineer,Mid,Hybrid,SQL,103496
+2447,Data Analyst,Senior,On-Site,Docker,166729
+2448,Software Engineer,Mid,Remote,Python,100777
+2449,Data Analyst,Senior,Hybrid,R,177063
+2450,Data Analyst,Mid,On-Site,Power BI,95171
+2451,Software Engineer,Entry,Hybrid,Tableau,90764
+2452,Data Engineer,Mid,Remote,SQL,109556
+2453,Data Scientist,Senior,On-Site,AWS,163389
+2454,Data Scientist,Mid,Hybrid,SQL,113056
+2455,Data Engineer,Entry,Hybrid,Power BI,93268
+2456,Data Scientist,Mid,Hybrid,Power BI,93191
+2457,Data Engineer,Mid,Hybrid,Python,96301
+2458,Software Engineer,Mid,Remote,AWS,98824
+2459,Data Analyst,Mid,Remote,AWS,90247
+2460,Data Analyst,Entry,Remote,Python,71860
+2461,Data Scientist,Senior,Hybrid,SQL,181246
+2462,Data Analyst,Mid,Hybrid,Python,105535
+2463,Software Engineer,Mid,Hybrid,Spark,134676
+2464,Data Analyst,Entry,Remote,AWS,74385
+2465,Data Scientist,Lead,Hybrid,SQL,227665
+2466,Machine Learning Engineer,Lead,Remote,Power BI,173579
+2467,Data Analyst,Mid,Hybrid,Power BI,95151
+2468,Data Engineer,Mid,Remote,Python,108852
+2469,Data Analyst,Senior,Remote,SQL,181794
+2470,Data Scientist,Senior,Remote,Power BI,130557
+2471,Software Engineer,Mid,Hybrid,Docker,122578
+2472,Software Engineer,Entry,Remote,AWS,64974
+2473,Data Engineer,Entry,Remote,AWS,80201
+2474,Data Analyst,Entry,Hybrid,SQL,85521
+2475,Machine Learning Engineer,Senior,Hybrid,AWS,167013
+2476,Data Engineer,Mid,Hybrid,AWS,125927
+2477,Software Engineer,Senior,On-Site,AWS,147537
+2478,Data Engineer,Mid,Hybrid,Spark,120978
+2479,Data Analyst,Mid,Remote,Python,130054
+2480,Data Analyst,Mid,Remote,Power BI,118660
+2481,Data Analyst,Mid,Remote,SQL,120470
+2482,Data Engineer,Mid,Remote,R,110430
+2483,Data Analyst,Senior,Hybrid,Python,157800
+2484,Data Engineer,Lead,Remote,Python,197159
+2485,Data Analyst,Entry,Hybrid,AWS,70123
+2486,Data Analyst,Lead,On-Site,SQL,232188
+2487,Machine Learning Engineer,Mid,On-Site,SQL,133251
+2488,Data Engineer,Mid,Remote,AWS,96936
+2489,Data Engineer,Mid,Hybrid,Tableau,109819
+2490,Data Analyst,Mid,Remote,Python,105410
+2491,Software Engineer,Mid,Hybrid,SQL,116121
+2492,Data Engineer,Entry,Hybrid,AWS,74062
+2493,Software Engineer,Lead,Hybrid,AWS,213446
+2494,Data Engineer,Entry,Remote,AWS,79005
+2495,Software Engineer,Entry,On-Site,Spark,78668
+2496,Data Analyst,Senior,Hybrid,Python,173681
+2497,Software Engineer,Mid,On-Site,Python,110820
+2498,Data Engineer,Lead,On-Site,Power BI,196273
+2499,Data Analyst,Mid,Hybrid,SQL,113007
+2500,Data Scientist,Mid,On-Site,R,108341
+2501,Machine Learning Engineer,Senior,Hybrid,PyTorch,141026
+2502,Software Engineer,Entry,Remote,Tableau,91258
+2503,Software Engineer,Entry,Remote,AWS,81930
+2504,Data Analyst,Lead,Hybrid,Power BI,220589
+2505,Data Analyst,Senior,Remote,SQL,174244
+2506,Data Analyst,Mid,On-Site,Python,134901
+2507,Machine Learning Engineer,Senior,Remote,Python,170582
+2508,Data Scientist,Senior,Remote,Spark,172290
+2509,Machine Learning Engineer,Senior,On-Site,Power BI,134873
+2510,Data Analyst,Mid,Remote,SQL,92970
+2511,Data Analyst,Mid,On-Site,PyTorch,93254
+2512,Data Engineer,Lead,Remote,Python,205043
+2513,Data Scientist,Senior,Remote,Python,152158
+2514,Data Analyst,Mid,Remote,Tableau,131815
+2515,Software Engineer,Mid,Remote,AWS,100171
+2516,Software Engineer,Mid,Hybrid,SQL,119151
+2517,Software Engineer,Entry,Hybrid,AWS,80505
+2518,Data Analyst,Mid,Hybrid,SQL,122127
+2519,Machine Learning Engineer,Senior,Hybrid,AWS,137858
+2520,Data Analyst,Senior,Hybrid,SQL,137360
+2521,Data Analyst,Mid,Hybrid,SQL,90006
+2522,Data Analyst,Mid,Remote,Spark,92821
+2523,Data Analyst,Senior,Remote,Spark,147394
+2524,Data Engineer,Entry,Remote,Tableau,70967
+2525,Software Engineer,Senior,Remote,Snowflake,150752
+2526,Data Analyst,Lead,Hybrid,AWS,197135
+2527,Data Scientist,Mid,Remote,Python,122087
+2528,Software Engineer,Senior,Hybrid,PyTorch,168639
+2529,Data Analyst,Mid,Hybrid,Power BI,92168
+2530,Software Engineer,Mid,Hybrid,AWS,110596
+2531,Data Engineer,Entry,Remote,Python,86864
+2532,Machine Learning Engineer,Mid,On-Site,Python,119580
+2533,Software Engineer,Mid,Remote,Power BI,117348
+2534,Data Analyst,Mid,Hybrid,Spark,104203
+2535,Data Engineer,Mid,Hybrid,Python,130059
+2536,Data Engineer,Mid,Remote,Python,113213
+2537,Machine Learning Engineer,Mid,Remote,SQL,105180
+2538,Data Analyst,Entry,Remote,AWS,74150
+2539,Data Scientist,Mid,Remote,AWS,133357
+2540,Data Scientist,Mid,Remote,Tableau,124781
+2541,Software Engineer,Mid,Remote,Python,124657
+2542,Data Analyst,Senior,Remote,Python,146131
+2543,Data Engineer,Senior,Remote,SQL,130074
+2544,Data Scientist,Mid,On-Site,Tableau,91061
+2545,Machine Learning Engineer,Senior,Hybrid,AWS,151890
+2546,Data Analyst,Mid,Remote,SQL,111783
+2547,Data Engineer,Senior,Remote,PyTorch,181849
+2548,Software Engineer,Senior,Hybrid,PyTorch,134158
+2549,Data Analyst,Mid,Remote,Python,118008
+2550,Data Scientist,Senior,Remote,Tableau,164977
+2551,Data Scientist,Mid,Remote,SQL,131286
+2552,Data Engineer,Mid,On-Site,Spark,92799
+2553,Data Analyst,Entry,Hybrid,AWS,64699
+2554,Data Engineer,Lead,Remote,AWS,217573
+2555,Data Analyst,Entry,On-Site,AWS,79130
+2556,Data Analyst,Mid,Remote,AWS,99413
+2557,Machine Learning Engineer,Entry,On-Site,Tableau,89882
+2558,Software Engineer,Entry,Remote,PyTorch,94818
+2559,Software Engineer,Senior,Hybrid,SQL,154034
+2560,Data Analyst,Mid,Hybrid,R,98554
+2561,Software Engineer,Senior,On-Site,PyTorch,158680
+2562,Machine Learning Engineer,Lead,Remote,AWS,220283
+2563,Data Scientist,Entry,Hybrid,Python,79777
+2564,Data Engineer,Senior,Remote,Python,149636
+2565,Data Analyst,Lead,Hybrid,SQL,192516
+2566,Data Scientist,Senior,Remote,AWS,131604
+2567,Data Scientist,Mid,Remote,SQL,107902
+2568,Software Engineer,Lead,Remote,Spark,196020
+2569,Machine Learning Engineer,Mid,On-Site,PyTorch,115970
+2570,Machine Learning Engineer,Mid,Remote,AWS,106136
+2571,Data Analyst,Senior,Remote,Snowflake,135599
+2572,Data Analyst,Mid,Remote,Python,97884
+2573,Data Analyst,Senior,On-Site,Power BI,154013
+2574,Data Engineer,Mid,Hybrid,SQL,105887
+2575,Software Engineer,Senior,On-Site,SQL,172920
+2576,Data Engineer,Mid,Remote,Power BI,98376
+2577,Software Engineer,Mid,Remote,Python,93105
+2578,Data Engineer,Lead,Remote,Tableau,228507
+2579,Data Scientist,Mid,Hybrid,Power BI,96821
+2580,Data Engineer,Senior,Remote,AWS,132066
+2581,Machine Learning Engineer,Entry,Remote,SQL,78287
+2582,Software Engineer,Entry,Remote,SQL,70637
+2583,Data Analyst,Entry,Hybrid,PyTorch,67850
+2584,Data Scientist,Senior,On-Site,AWS,146661
+2585,Data Scientist,Mid,On-Site,Python,106692
+2586,Machine Learning Engineer,Lead,On-Site,Spark,197523
+2587,Data Scientist,Mid,Remote,AWS,121919
+2588,Machine Learning Engineer,Entry,Hybrid,PyTorch,61484
+2589,Data Scientist,Mid,Remote,Spark,124155
+2590,Data Engineer,Entry,Hybrid,SQL,92652
+2591,Data Scientist,Senior,Hybrid,AWS,180654
+2592,Data Scientist,Senior,On-Site,SQL,174388
+2593,Data Engineer,Entry,Remote,PyTorch,89978
+2594,Data Scientist,Senior,Hybrid,PyTorch,157294
+2595,Data Analyst,Mid,Hybrid,Spark,107295
+2596,Machine Learning Engineer,Entry,Remote,Spark,93958
+2597,Data Analyst,Mid,Hybrid,Tableau,114589
+2598,Data Analyst,Lead,Hybrid,Spark,230384
+2599,Machine Learning Engineer,Entry,Hybrid,SQL,64610
+2600,Data Analyst,Senior,Remote,SQL,177927
