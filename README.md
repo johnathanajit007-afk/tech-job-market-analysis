@@ -20,7 +20,7 @@ This project investigates tech industry hiring trends to uncover:
 ---
 
 ## 📈 Dashboard Preview
-![Tech Job Market Dashboard](dashboard_preview.png.png)
+<img src="https://githubusercontent.com" width="100%">
 
 ---
 
