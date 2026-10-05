@@ -20,12 +20,14 @@ This project investigates tech industry hiring trends to uncover:
 ---
 
 ## 📈 Dashboard Preview
-![Tech_Job_Market_Dashboard_Preview](Tech_Job_Market_Dashboard_Preview)
+![Tech Job Market Dashboard Preview](Tech_Job_Market_Dashboard_Preview.png)
 
 ---
 
 ## 📁 Repository Structure
-- `Tech_Job_Market_Dataset.csv`: Raw dataset containing job postings, skills, and salaries.
-- `tech_job_market_eda.ipynb`: Jupyter notebook used for data preprocessing and SQLite execution.
+- `Tech_Job_Market_Dataset.csv`: Main dataset containing job postings, skills, and salaries.
+- `Raw_SaaS_Billing_Logs.csv`: Supporting dataset containing raw SaaS transaction and billing activity logs.
+- `tech_job_market_eda.ipynb`: Jupyter notebook used for data preprocessing, EDA, and SQLite execution.
 - `tech_job_market_queries.sql`: Standalone SQL file containing schema definitions and analytical queries.
 - `Tech_Job_Market_Dashboard.pbix`: Power BI file containing the full interactive data model and visual layers.
+- `Tech_Job_Market_Dashboard_Preview.png`: Preview image of the Power BI dashboard for documentation.
